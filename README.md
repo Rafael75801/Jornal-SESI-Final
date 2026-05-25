@@ -103,8 +103,7 @@ cd revista-sesi
 
 ## 👥 Equipe
 
-Desenvolvido com 💚 pelos alunos do **3º ano B — SENAI/SESI**  
-📚 Disciplina: Desenvolvimento Web · 📅 Ano: 2026
+Desenvolvido com pelos alunos do **3º ano B — SENAI/SESI**  
 
 <br>
 
