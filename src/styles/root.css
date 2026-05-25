@@ -44,6 +44,7 @@
     --post-shadow-md: 0 4px 16px rgba(0, 0, 0, 0.08);
     --post-radius: 10px;
     --post-radius-sm: 6px;
+    --transition: .2s ease;
 }
 
 body.dark-theme{
@@ -56,27 +57,29 @@ body.dark-theme{
     --grey: #11141c;
 
     /* ────── WEATHER ────── */
-
     --weather-bg: #0f1117;
-
     --weather-surface: #151922;
     --weather-surface2: #1c2130;
-
     --weather-text: #dde1ed;
-
     --weather-muted: rgba(221, 225, 237, .55);
-
     --weather-border: rgba(255,255,255,.06);
-
     --weather-accent: #e8c84a;
-
     --weather-r-lg: 26px;
     --weather-r-md: 18px;
     --weather-r-sm: 12px;
-
     --weather-gap: 14px;
+    color: var(--white);
 
-    color: var(--white)
+    /* ────── POSTAGEM ────── */
+
+    --post-border: #2a2a2a;
+    --post-border-focus: #26a69a;
+    --post-text-muted: #a0a0a0;
+    --post-card-bg: #181818;
+    --post-shadow-sm: 0 1px 4px rgba(0, 0, 0, 0.35);
+    --post-shadow-md: 0 4px 16px rgba(0, 0, 0, 0.45);
+    --post-radius: 10px;
+    --post-radius-sm: 6px;
 }
 
 * {
